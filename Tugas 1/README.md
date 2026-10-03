@@ -9,7 +9,7 @@ Dibuat untuk memenuhi Tugas 1 Praktikum Algoritma dan Pemrograman.
 - 2605176028 - Rahmat Noor Sani
 
 ## Instruksi Tugas
-![Instruksi Tugas](soal.png)
+![Instruksi Tugas](soal.jpg)
 
 ## Ketentuan Penilaian
 Bobot nilai akhir: Tugas 30%, UTS 30%, UAS 40%.
