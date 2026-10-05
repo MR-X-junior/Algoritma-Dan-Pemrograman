@@ -11,10 +11,10 @@ Dibuat untuk memenuhi Tugas 1 Praktikum Algoritma dan Pemrograman.
 # https://github.com/MR-X-junior/Algoritma-Dan-Pemrograman/tree/main/Tugas%201
 
 data = [
-    {"nama": "Rahmat Adha", "tugas": 99, "uts": 99, "uas": 99},
-    {"nama": "Viera", "tugas": 78, "uts": 80, "uas": 82},
-    {"nama": "Tiara Maharani", "tugas": 70, "uts": 68, "uas": 72},
-    {"nama": "Maisaroh Elvin Aldiyani", "tugas": 60, "uts": 62, "uas": 64},
+    {"nama": "Maisaroh Elvin Aldiyani", "tugas": 99, "uts": 99, "uas": 99},
+    {"nama": "Rahmat Adha", "tugas": 78, "uts": 80, "uas": 82},
+    {"nama": "Viera", "tugas": 70, "uts": 68, "uas": 72},
+    {"nama": "Tiara", "tugas": 60, "uts": 62, "uas": 64},
     {"nama": "Rahmat Noor Sani", "tugas": 44, "uts": 43, "uas": 50},
 ]
 

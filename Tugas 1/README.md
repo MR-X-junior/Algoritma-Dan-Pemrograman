@@ -26,7 +26,7 @@ Status kelulusan: **LULUS** jika nilai akhir ≥ 60, selain itu **TIDAK LULUS**.
 
 ## Contoh Output
 ```
-[✓] Nama  : Rahmat Adha
+[✓] Nama  : Maisaroh Elvin Aldiyani
 [✓] TUGAS : 99
 [✓] UTS   : 99
 [✓] UAS   : 99
