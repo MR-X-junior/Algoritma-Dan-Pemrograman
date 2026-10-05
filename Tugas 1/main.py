@@ -11,19 +11,20 @@ Dibuat untuk memenuhi Tugas 1 Praktikum Algoritma dan Pemrograman.
 # https://github.com/MR-X-junior/Algoritma-Dan-Pemrograman/tree/main/Tugas%201
 
 data = [
-    {"nama": "Maisaroh Elvin Aldiyani", "tugas": 99, "uts": 99, "uas": 99},
-    {"nama": "Rahmat Adha", "tugas": 78, "uts": 80, "uas": 82},
-    {"nama": "Viera", "tugas": 70, "uts": 68, "uas": 72},
-    {"nama": "Tiara", "tugas": 60, "uts": 62, "uas": 64},
-    {"nama": "Rahmat Noor Sani", "tugas": 44, "uts": 43, "uas": 50},
+    ["Maisaroh Elvin Aldiyani", 99, 99, 99],
+    ["Rahmat Adha", 78, 80, 82],
+    ["Viera", 70, 68, 72],
+    ["Tiara", 60, 62, 64],
+    ["Rahmat Noor Sani", 44, 43, 50],
 ]
 
 for mahasiswa in data:
-    nilai_akhir = (
-        mahasiswa["tugas"] * 3
-        + mahasiswa["uts"] * 3
-        + mahasiswa["uas"] * 4
-    ) / 10
+    nama = mahasiswa[0]
+    tugas = mahasiswa[1]
+    uts = mahasiswa[2]
+    uas = mahasiswa[3]
+
+    nilai_akhir = (tugas * 3 + uts * 3 + uas * 4) / 10
 
     if nilai_akhir >= 85:
         grade = "A"
@@ -41,10 +42,10 @@ for mahasiswa in data:
     else:
         status = "TIDAK LULUS"
 
-    print(f"[✓] Nama  : {mahasiswa['nama']}")
-    print(f"[✓] TUGAS : {mahasiswa['tugas']}")
-    print(f"[✓] UTS   : {mahasiswa['uts']}")
-    print(f"[✓] UAS   : {mahasiswa['uas']}")
+    print(f"[✓] Nama  : {nama}")
+    print(f"[✓] TUGAS : {tugas}")
+    print(f"[✓] UTS   : {uts}")
+    print(f"[✓] UAS   : {uas}")
     print(f"[✓] Nilai : {nilai_akhir:.1f}")
     print(f"[✓] Grade : {grade}")
     print(f"[✓] Status: {status}")
