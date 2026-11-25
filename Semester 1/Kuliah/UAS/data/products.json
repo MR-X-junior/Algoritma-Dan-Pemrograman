@@ -1,0 +1,74 @@
+[
+  {
+    "code": "B001",
+    "name": "Beras 5 kg",
+    "price": 100000,
+    "stock": 108
+  },
+  {
+    "code": "B002",
+    "name": "Minyak Goreng 1 L",
+    "price": 18000,
+    "stock": 30
+  },
+  {
+    "code": "B003",
+    "name": "Gula Pasir 1 kg",
+    "price": 16500,
+    "stock": 25
+  },
+  {
+    "code": "B004",
+    "name": "Telur Ayam 1 kg",
+    "price": 29000,
+    "stock": 14
+  },
+  {
+    "code": "B005",
+    "name": "Mie Instan Goreng",
+    "price": 3500,
+    "stock": 100
+  },
+  {
+    "code": "B006",
+    "name": "Kopi Sachet",
+    "price": 2000,
+    "stock": 14
+  },
+  {
+    "code": "B007",
+    "name": "Susu UHT 1 L",
+    "price": 19500,
+    "stock": 12
+  },
+  {
+    "code": "B008",
+    "name": "Sabun Mandi",
+    "price": 4500,
+    "stock": 40
+  },
+  {
+    "code": "B009",
+    "name": "Teh Celup Kotak",
+    "price": 8500,
+    "stock": 3
+  },
+  {
+    "code": "B010",
+    "name": "Air Mineral 600 ml",
+    "price": 3000,
+    "stock": 60
+  },
+  {
+    "code": "B013",
+    "name": "Minyak Goreng 2L",
+    "price": 60000,
+    "stock": 5
+  },
+  {
+    "code": "C001",
+    "name": "Kimchi Confessions",
+    "price": 88000,
+    "stock": 60
+  }
+]

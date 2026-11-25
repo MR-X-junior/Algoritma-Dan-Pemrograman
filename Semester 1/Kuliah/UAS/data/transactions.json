@@ -1,0 +1,88 @@
+[
+  {
+    "id": "TRX-20261124-001",
+    "timestamp": "2026-11-24 18:00:35",
+    "items": [
+      {
+        "code": "B001",
+        "name": "Beras 5 kg",
+        "price": 68000,
+        "qty": 1
+      }
+    ],
+    "subtotal": 68000,
+    "discount_percent": 0,
+    "discount": 0,
+    "taxable_amount": 68000,
+    "tax": 7480,
+    "total": 75480,
+    "paid": 80000,
+    "change": 4520
+  },
+  {
+    "id": "TRX-20261124-002",
+    "timestamp": "2026-11-24 18:33:53",
+    "items": [
+      {
+        "code": "B001",
+        "name": "Beras 5 kg",
+        "price": 68000,
+        "qty": 2
+      }
+    ],
+    "subtotal": 136000,
+    "discount_percent": 5,
+    "discount": 6800,
+    "taxable_amount": 129200,
+    "tax": 14212,
+    "total": 143412,
+    "paid": 150000,
+    "change": 6588
+  },
+  {
+    "id": "TRX-20261125-001",
+    "timestamp": "2026-11-25 10:21:35",
+    "items": [
+      {
+        "code": "B001",
+        "name": "Beras 5 kg",
+        "price": 100000,
+        "qty": 2
+      },
+      {
+        "code": "B004",
+        "name": "Telur Ayam 1 kg",
+        "price": 29000,
+        "qty": 1
+      }
+    ],
+    "subtotal": 229000,
+    "discount_percent": 5,
+    "discount": 11450,
+    "taxable_amount": 217550,
+    "tax": 23931,
+    "total": 241481,
+    "paid": 250000,
+    "change": 8519
+  },
+  {
+    "id": "TRX-20261125-002",
+    "timestamp": "2026-11-25 17:56:44",
+    "items": [
+      {
+        "code": "B001",
+        "name": "Beras 5 kg",
+        "price": 100000,
+        "qty": 2
+      }
+    ],
+    "subtotal": 200000,
+    "discount_percent": 5,
+    "discount": 10000,
+    "taxable_amount": 190000,
+    "tax": 20900,
+    "total": 210900,
+    "paid": 300000,
+    "change": 89100
+  }
+]
