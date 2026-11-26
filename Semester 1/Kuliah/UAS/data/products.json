@@ -3,7 +3,7 @@
     "code": "B001",
     "name": "Beras 5 kg",
     "price": 100000,
-    "stock": 108
+    "stock": 98
   },
   {
     "code": "B002",
@@ -21,7 +21,7 @@
     "code": "B004",
     "name": "Telur Ayam 1 kg",
     "price": 29000,
-    "stock": 14
+    "stock": 13
   },
   {
     "code": "B005",
@@ -39,7 +39,7 @@
     "code": "B007",
     "name": "Susu UHT 1 L",
     "price": 19500,
-    "stock": 12
+    "stock": 11
   },
   {
     "code": "B008",
@@ -64,6 +64,24 @@
     "name": "Minyak Goreng 2L",
     "price": 60000,
     "stock": 5
+  },
+  {
+    "code": "B014",
+    "name": "Sabun lantai",
+    "price": 5000,
+    "stock": 23
+  },
+  {
+    "code": "B016",
+    "name": "Susu UHT",
+    "price": 5000,
+    "stock": 56
+  },
+  {
+    "code": "B017",
+    "name": "Shampo",
+    "price": 5000,
+    "stock": 19
   },
   {
     "code": "C001",

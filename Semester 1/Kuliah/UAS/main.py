@@ -1,23 +1,21 @@
 """
 main.py
-Titik masuk aplikasi Smart-POS (Sistem Manajemen Kasir & Inventaris Toko Ritel).
-Berisi menu dan alur interaksi dengan pengguna. Logika bisnis ada di paket lib
-(models, inventory, report).
-
-Cara menjalankan:  python main.py
+Smart-POS (Sistem Manajemen Kasir & Inventaris Toko Ritel).
 """
 
-from __future__ import annotations
+# Nama : Rahmat Adha
+# NIM  : 2605176027
+# Kelas: Pendidikan Komputer 26A
 
-import os
+from __future__ import annotations
 from typing import Callable, List, Optional, Tuple
 
 from lib import DailyReport, Inventory, Product, Transaction
 from lib.live_input import prompt_lookup, prompt_rupiah
 from lib.models import load_transactions, next_transaction_id, save_transactions
 from lib.utils import (
-    DISCOUNT_TIERS, LOW_STOCK_THRESHOLD, PRODUCTS_FILE, STORE_NAME, TAX_RATE, TRANSACTIONS_FILE,
-    divider, ensure_directories, format_rupiah, pause, print_title, prompt_choice, prompt_date,
+    DISCOUNT_TIERS, LOW_STOCK_THRESHOLD, STORE_NAME, TAX_RATE,
+    divider, format_rupiah, pause, print_title, prompt_choice, prompt_date,
     prompt_int, prompt_text, prompt_yes_no, today,
 )
 
